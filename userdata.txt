@@ -1,1 +1,3 @@
 hey this is a data of user
+name :"shabaz"
+passoword :  "1234"
